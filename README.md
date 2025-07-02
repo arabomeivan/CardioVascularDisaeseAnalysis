@@ -1,6 +1,11 @@
+
+
 # 🩺 Chronic Disease Monitoring with NHANES
 
 This project applies data visualization techniques to monitor chronic diseases using metadata extracted from the **National Health and Nutrition Examination Survey (NHANES)**. It focuses on identifying key health indicators associated with **cardiovascular risk**, including diabetes, hypertension, and obesity.
+## 📘 Notebook Preview
+
+👉 [View Full Notebook on NBViewer](https://nbviewer.org/github/ivanarabome/nhanes-chronic-disease-monitoring/blob/main/nhanes-analysis.ipynb)
 
 ## 📌 Objectives
 
